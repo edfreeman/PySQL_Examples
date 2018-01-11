@@ -1,6 +1,6 @@
 ## ShortenedTaxiFareWalkthrough: 
 
-Predicts whether a tip is given at the end of a taxi journey (Disclaimer: This is not my work – it is a shortened version of the tutorial found at https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/sqldev-in-database-python-for-sql-developers). 
+Predicts whether a tip is given at the end of a taxi journey (**Disclaimer:** This is not my work – it is a shortened version of the tutorial found at https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/sqldev-in-database-python-for-sql-developers). 
 
 - Shorter because it only uses one model (namely, the SciKit model) as opposed to two models used in the original tutorial. 
 - There are (or were, at least) small mistakes in the code snippits in the tutorial which have been pointed out by others in the , which I have rectified here (I think)
