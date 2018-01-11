@@ -1,0 +1,1 @@
+EXEC MapDays2 @DaysOfWeekTable = 'SELECT * FROM DaysOfWeek', @RowsPerRead=5;
