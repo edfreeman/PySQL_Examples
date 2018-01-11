@@ -1,5 +1,5 @@
 # PySQL_Examples
-## Brief Description
+## Brief description
 A number of examples of using the inline Python capability in SQL Server 2017.
 ## Less brief description
 This repo contains multiple examples of SQL queries which invoke Python code using the 'sp_execute_external_script' system stored procedure, along with a folder that contains the packaged python files which needs to be placed inside a path that SQL can see to work properly.
